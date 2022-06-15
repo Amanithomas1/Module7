@@ -1,1 +1,7 @@
-# I am creating a Jupyter Notebook containing my analysis of an exchange traded fund that a SQL database stores.
+UNCC Bootcamp Module 7
+
+using Jupyter Lab create a ETF analyzer app and hvplot the outcomes.
+
+Turb the analysis into a web application using viola.
+
+Web Application 
